@@ -1,0 +1,40 @@
+html, body {
+  font-family: sans-serif;
+}
+
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  outline: none;
+  border: 2px solid white;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.items {
+  padding-left: 15px;
+}
+
+.cart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.total {
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  margin:0 5px;
+}
